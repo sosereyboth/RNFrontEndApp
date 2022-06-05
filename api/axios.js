@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL: 'http://192.168.1.8:9192'
+    baseURL: 'http://your_kubernetes_ip:30002'
 })
