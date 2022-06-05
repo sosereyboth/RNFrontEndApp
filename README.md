@@ -48,5 +48,5 @@ When the app runs, you can test the login using this default username and passwo
 > Password: pwd1
 
 ### Enjoy your test!
-![drawing](/ios-home.png){ width=50% }
-![drawing](/ios-allbooks.png){ width=50% }
+![drawing](/ios-home.png)
+![drawing](/ios-allbooks.png)
