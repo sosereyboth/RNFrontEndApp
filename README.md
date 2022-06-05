@@ -21,3 +21,12 @@ On your machine, open the terminal or git bash and then run this command to clon
 ```
 git clone https://github.com/sosereyboth/RNFrontEndApp.git
 ```
+> When the clone completed, you'll get a folder named "RNFrontEndApp".
+
+### Step 2: Building and Compiling Project
+Open the downloaded project "RNFrontEndApp" using VS Code (or any code editor you like). To open in the VS Code, run this command:
+```
+cd RNFrontEndApp
+
+code .
+```
