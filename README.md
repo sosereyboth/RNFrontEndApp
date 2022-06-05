@@ -30,3 +30,4 @@ cd RNFrontEndApp
 
 code .
 ```
+Now edit the file named "axios.js" under the folder "/api" by defining the "baseURL" as the IP of the machine which is running your back-end API service (in this case the kubernetes machine).
