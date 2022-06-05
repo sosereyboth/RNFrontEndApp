@@ -6,7 +6,7 @@ This is a React-Native project built for an assignment. This front-end app acces
 
 ## Requirements
 To run this application on your machine, you have to install the following softwares:
-* Git/Git Bash : for cloning source codes from the github.
+* Git/Git Bash (Optional): for cloning source codes from the github.
 * Node JS : for building and compiling source code.
 * iOS simulator for Mac or Android Emulator for Android
 
