@@ -46,3 +46,5 @@ When the app runs, you can test the login using this default username and passwo
 > Username: user1
 
 > Password: pwd1
+
+### Enjoy your test!
