@@ -42,3 +42,6 @@ Then
 react-native run-ios          //For iOS simulator
 react-native run-android      //For android emulator
 ```
+When the app runs, you can testing the login using this default username and password:
+> Username: user1
+> Password: pwd1
