@@ -39,5 +39,6 @@ npm install
 ```
 Then
 ```
-react-native run-ios
+react-native run-ios          //For iOS simulator
+react-native run-android      //For android emulator
 ```
