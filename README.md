@@ -1,7 +1,7 @@
 # React Native - Front End Mobile App
 This is a React-Native project built for an assignment. This front-end app accesses the back-end API service which is running on the docker kubernetes environment. 
 > If you haven't deployed the back-end service, check the document here: 
-> https://github.com/sosereyboth/backend-api/blob/main/README.md
+> https://github.com/sosereyboth/backend-api
 
 
 ## Requirements
