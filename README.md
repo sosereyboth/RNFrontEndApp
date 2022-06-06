@@ -31,7 +31,7 @@ cd RNFrontEndApp
 code .
 ```
 Now edit the file named "axios.js" under the folder "/api" by defining the "baseURL" as the IP of the machine which is running your back-end API service (in this case the kubernetes machine). For example, baseURL: 'http://192.168.1.8:30002'
-> Remember: The 30002 port number is the Kubernetes service port on which you deployed your application.
+> Remember: The 30002 port number is the Kubernetes service port on which the back-end service was deployed.
 
 I think now it's time to run the application. To do it, open a terminal on the VSCode editor, and type this command:
 ```
